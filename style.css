@@ -1,0 +1,13 @@
+body{
+background-color: plum;
+}
+
+#result_object_name, #result_object_acccuracy  {
+color:white;
+
+}
+
+
+#camera {
+    border: 1px dotted white;
+}
